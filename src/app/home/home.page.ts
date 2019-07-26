@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController } from '@ionic/angular';
-import { Router } from '@angular/router';
-import { LugarPage } from '../lugar/lugar.page';
+//import { Router } from '@angular/router';
+//import { LugarPage } from '../lugar/lugar.page';
 
 @Component({
   selector: 'app-home',

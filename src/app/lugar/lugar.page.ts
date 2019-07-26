@@ -11,5 +11,7 @@ export class LugarPage implements OnInit {
 
   ngOnInit() {
   }
-
+  NewFunction(name:string){
+    alert(name);
+  }
 }
